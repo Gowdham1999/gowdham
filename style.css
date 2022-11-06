@@ -60,3 +60,12 @@ body {
 .right-buttons {
    width: 150px
 }
+
+#particles-js {
+   z-index: -1;
+   height: auto;
+   width: 100%;
+   position: absolute;
+   top: 0;
+   left: 0;
+}
