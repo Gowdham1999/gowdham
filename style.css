@@ -6,6 +6,10 @@
    --dark-green-background: #bbed2f;
 }
 
+*{
+   overflow: hidden;
+}
+
 body {
    font-family: 'poppins';
    max-height: 100vh;
@@ -63,7 +67,7 @@ body {
 
 #particles-js {
    z-index: -1;
-   height: auto;
+   height: 100%;
    width: 100%;
    position: absolute;
    top: 0;
