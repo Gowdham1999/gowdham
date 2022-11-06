@@ -6,8 +6,8 @@
    --dark-green-background: #bbed2f;
 }
 
-*{
-   overflow: hidden;
+* {
+   overflow: hidden !important;
 }
 
 body {
